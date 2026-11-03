@@ -1,0 +1,8 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/meituan_yellow</item>
+        <item name="colorPrimaryDark">@color/meituan_yellow</item>
+        <item name="colorAccent">@color/meituan_yellow</item>
+        <item name="android:windowBackground">@color/page_bg</item>
+    </style>
+</resources>
